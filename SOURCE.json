@@ -8,5 +8,13 @@
   "file": "tanzil-uthmani-1.1.txt",
   "bytes": 1334737,
   "sha256": "ac0724796cbbda0f4801470fbbd11d0f3c5802067bae0493466d0128b0c667af",
-  "contentModified": false
+  "contentModified": false,
+  "freshPublisherVerification": {
+    "sourceURL": "https://tanzil.net/pub/download/index.php?quranType=uthmani&outType=txt",
+    "retrievedDate": "2026-10-08",
+    "bytes": 1334737,
+    "sha256": "ac0724796cbbda0f4801470fbbd11d0f3c5802067bae0493466d0128b0c667af",
+    "matchesMirroredOriginal": true,
+    "publisherPublicationDate": null
+  }
 }
