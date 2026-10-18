@@ -1,6 +1,6 @@
 # Tanzil Quran text mirror
 
-This repository preserves a verbatim copy of Tanzil Project's Uthmani Quran text, version 1.1, for reliable reuse by iQuran. We do not claim ownership, make the content proprietary, or replace its original license. The Quran text and original embedded copyright notice are unchanged.
+This repository preserves a verbatim copy of Tanzil Project's Uthmani Quran text, version 1.1, for reliable reuse by iQuranHolder (حامل القرآن). We do not claim ownership, make the content proprietary, or replace its original license. The Quran text and original embedded copyright notice are unchanged.
 
 Source: [Tanzil Project](https://tanzil.net/). [Download](https://tanzil.net/download/). [Text license and conditions](https://tanzil.net/docs/Text_License). [Publisher updates](https://tanzil.net/updates/).
 
@@ -15,3 +15,7 @@ The publisher permits verbatim copying and distribution and prohibits changing t
 Fetch source updates into a separate review branch. Verify original bytes, Quran integrity, version, attribution and publisher conditions before publishing a new version. Never automatically delete a mirrored file because the original server removes it. Preserve existing immutable releases and the revisions required by installed apps. Any removal requires a deliberate maintainer decision; publisher obligations remain in force.
 
 No app endpoint or content revision is changed by publishing this mirror. App integration and trust verification are separate work.
+
+## Mirror documentation changes
+
+October 18, 2026: corrected this README’s app name from “iQuran” to “iQuranHolder (حامل القرآن)” by replacing that name in the introductory description. The earlier name was incorrect. Only this README changed; Tanzil’s original Quran text, embedded notice, source metadata and checksums remain unchanged.
